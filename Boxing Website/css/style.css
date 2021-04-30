@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+
+#header{
+	margin-left: 9px;
+	margin-right: 9px;
+	text-align: center;
+	background-color: #54567D;
+}
+
+.site{
+	text-align: center;
+	margin-top: 20px;
+	background-color: #20265B;
+	color: white;
+}
+
+.para1{
+	margin-bottom: 20px;
+}
+
+
+
+.footer {
+	text-align: center;
+	background-color: #54567D;
+
+	color: white;
+	margin-top: 0px;
+	padding-top: 40px;
+}
+
+.ContactHP{
+	margin-top: 20px;
+}
+h3 {
+}
+.site aside h1 {
+    font-family: chunk;
+    font-style: normal;
+    font-weight: 400;
+}
+.site .h3 {
+    font-family: lobster-two;
+    font-style: normal;
+    font-weight: 400;
+}
+.site .para1 {
+    font-family: allerta;
+    font-style: normal;
+    font-weight: 400;
+}
